@@ -1,0 +1,58 @@
+
+.container-home{
+    color: grey;
+    height: 100vh;
+    background: url(https://img.freepik.com/premium-vector/ethereum-cryptocurrency-digital-coin-presentation-computer-circuit-board-vector-blockchain_185386-777.jpg?w=2000);
+    
+}
+.navbar-home{
+    display: flex;
+    justify-content: space-around;
+}
+.navbar-home button{
+    margin-top: 30px;
+    height: 50px;
+    width: 150px;
+    color: black;
+    border: .3px solid;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    margin: 10px;
+    color: transparent;
+}
+.home-body{
+    display: flex;
+}
+.home-body h1{
+    position: absolute;
+    left: 200px;
+    top: 150px;
+    color: #CDFCF6;
+    font-size: 50px;
+}
+.home-body-img{
+    width: 400px;
+    position: absolute;
+    left: 750px;
+    top: 200px;
+}
+.live-campaign-btn{
+    position: absolute;
+    left: 220px;
+    top: 450px;
+    height: 50px;
+    width: 200px;
+    border: .3px solid;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.live-campaign-btn:hover{
+    font-size: 22px;
+    background-color: aqua;
+    color: darkslategray;
+    transition: .1s ease-in-out;
+}

@@ -1,0 +1,39 @@
+.reqList{
+    text-align: center;
+}
+.request-table{
+    padding-left: 10px;
+    padding-top: 50px;
+}
+.reqListTitle{
+    font-size: 40px;
+}
+.reqList button{
+    height: 40px;
+    width: 130px;
+    border: .3px solid;
+    border-radius: 10px;
+    font-size: 16px;
+}
+.request-table{
+    /* border: .3px solid; */
+    border-color: grey;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+/* .reqTable{
+    border: .3px solid;
+} */
+/* thead{
+    border: .3px solid;
+} */
+th{
+    border: .3px solid;
+}
+td{
+    border: .3px solid;
+}
+button{
+    cursor: pointer;
+}

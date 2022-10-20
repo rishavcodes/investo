@@ -1,0 +1,53 @@
+.block-chain-description-page{
+    /* margin: 0 0 200px; */
+    height: 93vh;
+    width: 97.4vw;
+    /* background: url(https://phantom-marca.unidadeditorial.es/d6811174d250534bc39d0fd0920eec14/crop/0x0/887x499/resize/1320/f/jpg/assets/multimedia/imagenes/2022/03/10/16469298673188.png); */
+    border: 20px solid;
+    border-color: grey;
+    background-color: #EAEAEA;
+    color: black;
+}
+.top-description{
+    padding-left: 10px;
+}
+.top-description p{
+    font-size: 20px;
+}
+.top-description h1{
+    font-size: 40px;
+}
+.width855 img{
+    width: 800px;
+    height: 664px;
+}
+.blockchain-product-description{
+    position: absolute;
+    right: 205px;
+    top: 220px;
+    width: 500px;
+    height: 400px;
+    font-size: 20px;
+    /* background-color: #425F57; */
+}
+.productLeft1{
+    position: absolute;
+    right: 200px;
+}
+.inputandbutton{
+    padding-left: 20px;
+    padding-top: 100px;
+}
+.inputandbutton input{
+    width: 220px;
+    height: 40px;
+    border: .2px solid;
+    border-radius: 10px ;
+    margin-right: 20px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+.inputandbutton button{
+    width: 180px;
+    height: 45px;
+}

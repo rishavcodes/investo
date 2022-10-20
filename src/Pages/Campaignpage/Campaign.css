@@ -1,0 +1,72 @@
+.campaign-page-container{
+    color: grey;
+    background: url(https://undsgn.com/wp-content/uploads/2018/04/ltotbngnzzu.jpg);
+}
+.campaign-page-list{
+    padding-left: 200px;
+    margin-bottom: 30px;
+    padding-top: 50px;
+}
+.campaign-page-list h2{
+    padding-bottom: 30px;
+    font-size: 30px;
+}
+.navbar-home button{
+    background: transparent;
+    color: grey;
+}
+.pledges1{
+    border: .2px solid;
+    width: 1100px;
+    height: 235px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+    color: white;
+    background: url(https://phantom-marca.unidadeditorial.es/d6811174d250534bc39d0fd0920eec14/crop/0x0/887x499/resize/1320/f/jpg/assets/multimedia/imagenes/2022/03/10/16469298673188.png);
+}
+.pledges2{
+    border: .2px solid;
+    width: 1100px;
+    height: 235px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+    color: white;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwtYlu4pIH5pWx03q_X6AvUT8VfyRPelITgu-qIr2WAF-Dt_DC8d-s5zwaWfW1EvtJak&usqp=CAU);
+}
+.pledges3{
+    border: .2px solid;
+    width: 1100px;
+    height: 235px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+    color: white;
+    background: url(https://st2.depositphotos.com/2632165/7087/i/600/depositphotos_70870313-stock-photo-cup-of-coffee.jpg);
+}
+.innerText{
+    display: flex;
+    justify-content: space-between;
+}
+.productLeft{
+    display: flex;
+    justify-content: space-between;
+}
+.reward_btn{
+    height: 40px;
+    width: 150px;
+    border: .3px solid;
+    border-radius: 10px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+    background-color: grey;
+    color: white;
+}

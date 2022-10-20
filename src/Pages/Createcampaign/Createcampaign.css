@@ -1,0 +1,39 @@
+.login-body{
+    margin: 50px;
+}
+.content-box-login{
+    text-align: center;
+}
+.form-nav{
+    margin: 30px;
+}
+.arrow-icon-title{
+    text-align: left;
+    padding-left: 450px;
+}
+.arrow-icon-title h2{
+    font-size: 30px;
+}
+.input-form-login input{
+    width: 400px;
+    height: 50px;
+    border: .3px solid;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.input-form-login .input-description{
+    height: 80px;
+}
+.submit-btn-login{
+    width: 400px;
+    height: 50px;
+    border: .2px solid;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 600;
+    color: darkslategrey;
+    background-color: aqua;
+    cursor: pointer;
+}
